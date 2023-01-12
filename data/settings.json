@@ -1,0 +1,12 @@
+{
+    "interval_ms": 200,
+    "first_delay_ms": 1000,
+    "approval_hotkey": "SHIFT+ENTER",
+    "show_notifications": true,
+    "always_on_top": false,
+    "minimize_to_tray": false,
+    "stop_on_error": true,
+    "last_message": "Hello from Auto Typo!",
+    "last_target_count": 10,
+    "last_unlimited": false
+}
