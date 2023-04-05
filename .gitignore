@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# PyInstaller / Build
+build/
+dist/
+*.manifest
+*.spec.bak
+
+# User Runtime Data
+data/logs.json
+data/sessions.json
+
+# Personal / Local Notes & Agent Artifacts
+convo.md
+*.local.*
+rendered_*.png
+.gemini/
+.claude/
+
+# IDE / OS
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
+.DS_Store
