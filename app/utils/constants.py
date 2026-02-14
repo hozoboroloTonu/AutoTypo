@@ -4,7 +4,7 @@
 APP_NAME = "Auto Typo"
 APP_DISPLAY_NAME = "AUTO TYPO"
 APP_SUBTITLE = "Type it. Send it. Repeat it."
-APP_VERSION = "1.0.0"
+APP_VERSION = "3.1.1"
 APP_EDITION = "Portable Edition"
 APP_AUTHOR = "Mahmud Tonmoy"
 APP_COMPANY = "Mahmud Tonmoy"
