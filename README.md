@@ -2,6 +2,12 @@
 
 A lightweight, portable desktop keyboard automation utility built with Python and PySide6.
 
+## Download
+
+<a href="https://github.com/hozoboroloTonu/AutoTypo/releases/download/v3.1.1/AutoTypo.exe">
+  <img src="assets/get_it_on_github.png" alt="Get it on GitHub" height="68" />
+</a>
+
 ## Features
 
 - Configurable message, target count, and unlimited mode
@@ -26,7 +32,3 @@ python -m PyInstaller AutoTypo.spec --noconfirm --clean
 ```
 
 The compiled executable will be generated at `dist/AutoTypo.exe`.
-
-## Author
-
-Mahmud Tonmoy — [github.com/hozoboroloTonu/AutoTypo](https://github.com/hozoboroloTonu/AutoTypo)
